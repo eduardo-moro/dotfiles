@@ -1,0 +1,86 @@
+configuration {
+	modi:				"drun";
+	font:				"Rubik 10";
+	display-drun: 			"";
+	sidebar-mode: 			true;
+}
+configuration {
+	modi:				"run";
+	font:				"Cartograph cf 13";
+	display-drun: 			"";
+	sidebar-mode: 			true;
+}
+
+@theme "/dev/null"
+
+* {
+	bg:				#1e222a;
+	fg:				#4488ff;
+	button:				#373e4d;
+
+	background-color:		@bg;
+	text-color:			@fg;
+}
+
+window {
+	transparency:                   50%;
+	border-radius:                  0px;
+	width:			    	32%;
+	y-offset:                       0px;
+	padding: 			4px;
+	location: 			center;
+}
+
+prompt { enabled: false; }
+
+entry {
+	placeholder:			"Please search, Senpai >~<\"\"";
+	expand:                         true;
+	padding:                        4px;
+	background-color:               @button;
+        placeholder-color:              @fg;
+}
+
+inputbar {
+	children: 			[ prompt, entry ];
+	background-color:               @button;
+	text-color:                     @fg;
+	expand:                         false;
+	border-radius:                  4px;
+	padding:                        6px;
+}
+
+listview {
+	columns:                        2;
+	lines:	                        8;
+	cycle:                          false;
+	dynamic:                        true;
+	layout:                         vertical;
+}
+
+mainbox {
+	children:                       [ inputbar, listview ];
+	spacing:                       	2%;
+	padding:                        1% 0.5% 1% 0.5%;
+	border-radius: 0px;
+}
+
+element {
+	orientation:                    horizontal;
+	border-radius:                  0%;
+	padding:                        0.2% 0% 0.5% 0.5%;
+}
+
+element-text {
+	expand:                         true;
+	vertical-align:                 0.5;
+	margin:                         0.5% 3% 0% 3%;
+	background-color:               inherit;
+        text-color:                     inherit;
+}
+
+element selected {
+	background-color:               @button;
+	text-color:                     @fg;
+	border-radius:                  4px;
+}

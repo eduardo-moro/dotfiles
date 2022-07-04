@@ -1,0 +1,983 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3814e9407b8ade0a275764da38179d73a9885bbf0cba105ac3dfe628bfbfdb2719bd7e3ff15823bb5eb4813170fcb62b1950746c96ae176b33dd4c91e0e96810"
+      },
+      "expiry": 1657032210707
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721"
+      },
+      "expiry": 1657032210709
+    },
+    "/usr/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3814e9407b8ade0a275764da38179d73a9885bbf0cba105ac3dfe628bfbfdb2719bd7e3ff15823bb5eb4813170fcb62b1950746c96ae176b33dd4c91e0e96810"
+      },
+      "expiry": 1657032210711
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721"
+      },
+      "expiry": 1657032210742
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+      "type": "Unknown"
+    },
+    "/home/finn/anaconda/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/finn/anaconda/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/home/finn/anaconda",
+        "fileHash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353"
+      },
+      "expiry": 1657032210736
+    },
+    "/home/finn/anaconda/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/finn/anaconda/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/home/finn/anaconda",
+        "fileHash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353"
+      },
+      "expiry": 1657032210737
+    },
+    "/home/finn/anaconda/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/finn/anaconda/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/home/finn/anaconda",
+        "fileHash": "9b1852b3eecbd0c0474e542ed6ed5442e40b63f626d3c605bc88e3b7bb60fddf89104113f6ac2baa9c1d513fbbe273062f4c6e4859ae2388b32dfc772bd58adb"
+      },
+      "expiry": 1657032210730
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3814e9407b8ade0a275764da38179d73a9885bbf0cba105ac3dfe628bfbfdb2719bd7e3ff15823bb5eb4813170fcb62b1950746c96ae176b33dd4c91e0e96810",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3814e9407b8ade0a275764da38179d73a9885bbf0cba105ac3dfe628bfbfdb2719bd7e3ff15823bb5eb4813170fcb62b1950746c96ae176b33dd4c91e0e96810",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3814e9407b8ade0a275764da38179d73a9885bbf0cba105ac3dfe628bfbfdb2719bd7e3ff15823bb5eb4813170fcb62b1950746c96ae176b33dd4c91e0e96810",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3814e9407b8ade0a275764da38179d73a9885bbf0cba105ac3dfe628bfbfdb2719bd7e3ff15823bb5eb4813170fcb62b1950746c96ae176b33dd4c91e0e96810",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/anaconda/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/home/finn/anaconda",
+        "fileHash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/anaconda/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/home/finn/anaconda",
+        "fileHash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/anaconda/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/home/finn/anaconda",
+        "fileHash": "9b1852b3eecbd0c0474e542ed6ed5442e40b63f626d3c605bc88e3b7bb60fddf89104113f6ac2baa9c1d513fbbe273062f4c6e4859ae2388b32dfc772bd58adb",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+          "type": "Unknown",
+          "displayName": "Python 3.10.4 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1657032211009
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit",
+        "hash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721-e641234c3d56fe1d2a3fbb22c7eb1eab"
+      },
+      "expiry": 1657032211016
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit",
+        "hash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721-612c9a53f813ff2b252aecaa80d9fbf5"
+      },
+      "expiry": 1657032210960
+    },
+    "/home/finn/anaconda/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit",
+        "hash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353-c2c902ca1306acff81120358d1fee30a"
+      },
+      "expiry": 1657032210963
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+      "type": "Unknown",
+      "displayName": "Python 3.10.4 64-bit"
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+          "type": "Unknown",
+          "displayName": "Python 3.10.4 64-bit"
+        }
+      },
+      "expiry": 1657032210985
+    },
+    "/home/finn/anaconda/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353",
+        "info": {
+          "architecture": 3,
+          "path": "/home/finn/anaconda/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/home/finn/anaconda",
+          "fileHash": "d8104901146e7e2e3ee3622c5fb8d9a44e77e56ff8534aa8e7e1a0104d0dd3cc3365048ec974509c48c6157f73377f19db3772174c5a8905bef12e9117444353",
+          "type": "Unknown",
+          "displayName": "Python 3.9.12 64-bit"
+        }
+      },
+      "expiry": 1657032210988
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "6d52691e47aa4a33954098a16484fba73da146c6ab0772f63fa37150eaf862d462ead740ee40b41085526585ef1c1599a8b10b614fc9f83bf6e925800a7a5721",
+      "type": "Unknown",
+      "displayName": "Python 3.10.4 64-bit"
+    },
+    "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63"
+      },
+      "expiry": 1657032210726
+    },
+    "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63"
+      },
+      "expiry": 1657032210724
+    },
+    "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63"
+      },
+      "expiry": 1657032210722
+    },
+    "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.4 64-bit ('reconhecimento-venv': venv)",
+        "hash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63-5b469bb85e73ca0bf09e8b560132b4c3"
+      },
+      "expiry": 1656073449928
+    },
+    "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "info": {
+          "architecture": 3,
+          "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.4-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.4-final"
+          },
+          "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+          "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+          "envName": "reconhecimento-venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.4 64-bit ('reconhecimento-venv': venv)"
+        }
+      },
+      "expiry": 1656073449956
+    }
+  },
+  "coc-python|/home/finn/quadritech/reconhecimento-facial-v2": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "envName": "reconhecimento-venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "envName": "reconhecimento-venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "envName": "reconhecimento-venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService:74b4407afa23aac0373de8de0f8c8d1b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:74b4407afa23aac0373de8de0f8c8d1b": [
+      {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "envName": "reconhecimento-venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "envName": "reconhecimento-venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.4-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.4-final"
+        },
+        "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+        "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+        "envName": "reconhecimento-venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/usr/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/home/finn/quadritech/reconhecimento-facial-v2": {
+      "architecture": 3,
+      "path": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.4-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.4-final"
+      },
+      "sysPrefix": "/home/finn/quadritech/reconhecimento-facial-v2/reconhecimento-venv",
+      "fileHash": "c840595bd37522d373c701516d4811d753213357f025bd5fc690d867422258da3122a78afd605ec9feb7459b75f235a709cb9b6bec51e90cd61e4b819c5a3e63",
+      "envName": "reconhecimento-venv",
+      "type": "Venv"
+    }
+  }
+}
